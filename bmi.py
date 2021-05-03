@@ -4,7 +4,7 @@ def ounces2pounds(x):
     return x*16
 
 def stones2pounds(x):
-    return x*14
+    return x*140
 
 
 def weight2kg(stones,pounds,ounces):
